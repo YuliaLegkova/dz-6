@@ -15,8 +15,7 @@
                 Number = 2, 
                 EquatorLength = 38052, 
                 PreviousPlanet = (string?) "null"
-                
-            };
+             };
                    
             Console.WriteLine("Название: " + venus.Name + "\n" + 
                 "Номер от солнца: " + venus.Number + "\n" + 
@@ -75,11 +74,7 @@
             Console.WriteLine();
             Console.WriteLine("-----------------------------------------------");
             Console.WriteLine();
-
-
-        }
-
-
+       }
     }
 }
 
